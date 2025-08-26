@@ -1,4 +1,4 @@
-# Chaeminhub 👋
+# ChaeminHub 👋
   
 ## 👨‍💼 Tech
 

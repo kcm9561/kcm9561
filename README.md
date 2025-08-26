@@ -25,4 +25,25 @@
 
 | 동아리명 | 파트명 | 활동 내용 | 기간 |
 |----------|--------|-----------|------|
-| 9oormthon UNIV SSU 4기 | Spring boot 파트 | 프로젝트(NEXUS), 스터디, 해커톤 | 2025.03 ~ 진행중 |
+| 9oormthon UNIV SSU 4기 | Spring boot 파트 | 프로젝트(NEXUS), 스터디, 해커톤 | 2025.03 ~ 진행중 |  
+  
+  
+  
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- 기본 Stats 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
+
+  <!-- 가장 많이 사용한 언어 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcm9561&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+  <!-- 연속 커밋 기록 -->
+  <img src="https://streak-stats.demolab.com/?user=kcm9561&theme=tokyonight&hide_border=true" height="170"/>
+
+  <!-- 트로피 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kcm9561&theme=tokyonight&column=6&margin-w=10&margin-h=10" />
+
+</div>
+

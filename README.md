@@ -34,16 +34,16 @@
 <div align="center">
 
   <!-- 기본 Stats 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>  
+  
   <!-- 가장 많이 사용한 언어 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcm9561&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcm9561&layout=compact&theme=tokyonight&hide_border=true" height="170"/>  
+  
   <!-- 연속 커밋 기록 -->
-  <img src="https://streak-stats.demolab.com/?user=kcm9561&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://streak-stats.demolab.com/?user=kcm9561&theme=tokyonight&hide_border=true&cache_seconds=3600" height="170"/>  
+    
   <!-- 트로피 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kcm9561&theme=tokyonight&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kcm9561&theme=onedark&column=6&margin-w=10&margin-h=10&cache_seconds=3600" />  
 
 </div>
 

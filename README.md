@@ -33,9 +33,6 @@
 
   <!-- 기본 Stats 카드 -->
   <img src="https://github-readme-stats.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  <br>
-  <!-- 가장 많이 사용한 언어 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcm9561&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  
 </div>
 

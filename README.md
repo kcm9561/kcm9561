@@ -19,6 +19,7 @@
 | [Semteul-Battle](https://github.com/Semteul-Battle/Semteul-Battle-BE.git) | 알고리즘 문제 풀이 웹사이트 | 2023.12 ~ 2024.02 |
 | [TamagoRun](https://github.com/kcm9561/TamagoRun-Back.git) | 달리기 기록을 기반으로 한 게임화 러닝 앱 | 2024.09 ~ 2024.12 |
 | [DNDN](https://github.com/NEXUS-DNDN) ([Backend](https://github.com/NEXUS-DNDN/DNDN_Backend.git)) | 맞춤형 복지 추천 및 신청 지원 플랫폼 | 2025.07 ~ 2025.08 |
+| 청정 [Back-End](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_99_BE.git) | 필요한 지역별 청년 정책을 한눈에 확인하고, AI를 활용한 요약과 정책 개선 레포트 작성 플랫폼 | 2025.09.06 ~ 2025.09.07|
 | SSUChaehwa ([Back-End](https://github.com/IT-Contest/Back-End.git) / [Front-End](https://github.com/IT-Contest/it-contest-fe.git)) | 게이미피케이션 기법을 적용한 퀘스트 플래너 (백엔드·프론트엔드 개발) | 2025.06 ~ 진행중 |
 
 ## 👥 Clubs & Activities

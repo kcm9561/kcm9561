@@ -32,8 +32,9 @@
   
 ## 📊 GitHub Stats
 
-  <!-- 기본 Stats 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  
-</div>
+  <img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" 
+  height="170"
+/>
+
 

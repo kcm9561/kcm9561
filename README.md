@@ -30,11 +30,10 @@
   
   
   
-## 📊 GitHub Stats
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kcm9561" height="150" />
+  <img src="http://mazandi.herokuapp.com/api?handle=kcm9561&theme=warm" height="150" />
+</p>
 
-  <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kcm9561&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" 
-  height="170"
-/>
 
 

@@ -30,10 +30,10 @@
   
   
   
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kcm9561" height="150" />
-  <img src="http://mazandi.herokuapp.com/api?handle=kcm9561&theme=warm" height="150" />
-</p>
+## 🧩 BOJ Stats
 
+<p align="left">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kcm9561" height="150" />
+</p>
 
 
